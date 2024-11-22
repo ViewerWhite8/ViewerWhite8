@@ -1,7 +1,7 @@
 <h1 align="center">ViewerWhite8</h1>
 
 <p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-3fd05f7052.gif" width="250px" height="200px">
+  <img src="https://s2.ezgif.com/tmp/ezgif-2-3fd05f7052.gif" width="300px" height="200px">
 </p>
 
 
