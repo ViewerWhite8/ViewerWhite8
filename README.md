@@ -1,5 +1,5 @@
 <h1 align="center">Github: ViewerWhite8</h1>
-<img src="https://l.top4top.io/p_3096i24l10.png" width="200px" height="200px">
+<img style="text-align:center;" src="https://l.top4top.io/p_3096i24l10.png" width="200px" height="200px">
 <h3 align="center">Profile Detail</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reseacher&label=Profile%20views&color=0e75b6&style=flat" alt="reseacher" /> </p>
