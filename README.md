@@ -1,8 +1,7 @@
 <h1 align="center">Github: ViewerWhite8</h1>
-<img style="text-align:center;" src="https://l.top4top.io/p_3096i24l10.png" width="200px" height="200px">
 <h3 align="center">Profile Detail</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reseacher&label=Profile%20views&color=0e75b6&style=flat" alt="reseacher" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=searcher&label=Profile%20views&color=0e75b6&style=flat" alt="searcher" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,8 +10,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reseacher&show_icons=true&locale=en&layout=compact" alt="reseacher" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=searcher&show_icons=true&locale=en&layout=compact" alt="searcher" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reseacher&show_icons=true&locale=en" alt="reseacher" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=searcher&show_icons=true&locale=en" alt="searcher" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reseacher&" alt="reseacher" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=searcher&" alt="searcher" /></p>
