@@ -1,6 +1,9 @@
 <h1 align="center">ViewerWhite8</h1>
 
-<img align="center" src="https://l.top4top.io/p_3096i24l10.png" alt="C.E.S" width="200px" height="200px">
+<p align="center">
+  <img src="https://l.top4top.io/p_3096i24l10.png" width="200px" height="200px">
+</p>
+   
 
 <h3 align="center">Profile Detail</h3>
 
